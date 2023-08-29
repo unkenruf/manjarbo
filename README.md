@@ -1,0 +1,1 @@
+# Manjaro - Automated Rice Build
